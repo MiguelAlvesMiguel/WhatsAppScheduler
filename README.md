@@ -11,12 +11,12 @@ A simple tool that allows users to schedule messages on WhatsApp using Selenium 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/TheGameVlog/whatsapp-scheduler.git
+    git clone https://github.com/TheGameVlog/WhatsAppScheduler
     ```
 
 2. **Navigate to Project Directory**:
     ```bash
-    cd whatsapp-scheduler
+    cd WhatsAppScheduler
     ```
 
 3. **Follow Setup Instructions**: Detailed setup instructions can be found below.
